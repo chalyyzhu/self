@@ -1,0 +1,80 @@
+
+[ Minggu, 17 - 06 - 2018 | 21:37:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 17 - 06 - 2018 | 21:40:38 ] Remote end closed connection without response
+[ Minggu, 17 - 06 - 2018 | 21:44:59 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 21:52:08 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 21:52:28 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 22:35:30 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 22:35:32 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 22:37:39 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 22:53:08 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 23:16:11 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 23:16:11 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 23:55:23 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 01:12:07 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 01:12:09 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 01:13:10 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 01:14:22 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 08:37:56 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 08:45:42 ] Remote end closed connection without response
+[ Senin, 18 - 06 - 2018 | 22:09:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 23:34:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:19:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:19:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:19:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:19:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:27:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:27:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:27:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:27:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:31:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:37:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:43:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:43:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:53:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:22:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:22:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:22:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:22:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:24:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:24:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:24:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:24:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:43:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:43:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:43:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:43:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:43:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:43:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:47:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:47:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:47:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:47:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 02:48:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 03:53:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 04:11:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:13:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:22:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:22:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:34:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 07:25:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 07:29:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:26:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:37:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:18:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:21:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:21:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 11:35:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 12:01:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 12:26:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 13:29:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 13:41:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 13:41:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 13:41:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 15:20:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 17:51:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 18:39:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 18:41:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 00:01:31 ] Upload image failure.
+[ Jumat, 22 - 06 - 2018 | 01:14:15 ] HTTP Error 502: Bad Gateway
+[ Jumat, 22 - 06 - 2018 | 01:32:59 ] HTTP Error 502: Bad Gateway
