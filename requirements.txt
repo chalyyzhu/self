@@ -11,4 +11,3 @@ pafy
 wikipedia
 tweepy
 youtube_dl
-a.py
