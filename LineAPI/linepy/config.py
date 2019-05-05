@@ -1,6 +1,6 @@
 
 # -*- coding: utf-8 -*-
-from akad.ttypes import ApplicationType
+from ..akad.ttypes import ApplicationType
 import re, json, requests, urllib
 class Config(object):
     LINE_HOST_DOMAIN            = 'https://gwx.line.naver.jp'
